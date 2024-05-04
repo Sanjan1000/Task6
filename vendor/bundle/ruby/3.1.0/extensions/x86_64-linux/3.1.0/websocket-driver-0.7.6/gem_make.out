@@ -1,0 +1,18 @@
+current directory: /home/sanjan1000/OnlyMine/Internship/draw/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/home/sanjan1000/.rbenv/versions/3.1.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/sanjan1000/OnlyMine/Internship/draw/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240504-328450-dsuqhj sitelibdir\=./.gem.20240504-328450-dsuqhj clean
+
+current directory: /home/sanjan1000/OnlyMine/Internship/draw/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240504-328450-dsuqhj sitelibdir\=./.gem.20240504-328450-dsuqhj
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/sanjan1000/OnlyMine/Internship/draw/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240504-328450-dsuqhj sitelibdir\=./.gem.20240504-328450-dsuqhj install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20240504-328450-dsuqhj
+
+current directory: /home/sanjan1000/OnlyMine/Internship/draw/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240504-328450-dsuqhj sitelibdir\=./.gem.20240504-328450-dsuqhj clean
